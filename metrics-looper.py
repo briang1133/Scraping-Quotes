@@ -38,6 +38,7 @@ for link in link_elements:
     # Find the desired segment containing "cond%C3%A9-nast"
     last_segment = segments[-1]
 
+    # Find and replace special characters
     decoded_segment = urllib.parse.unquote(last_segment)
     decoded_segment = decoded_segment.replace('-',' ')
     decoded_segment = decoded_segment.title()
@@ -46,23 +47,21 @@ for link in link_elements:
     link_response = requests.get(href)
     link_soup = BeautifulSoup(link_response.text, "html.parser")
     
-    # Find the element with class "success-content col-lg-9"
-    content_element = link_soup.find(class_="success-content col-lg-9")
+    # Find the element with class "result text-center col""
+    metric_containers = link_soup.find_all(class_="result text-center col")
     
-    # Find all text within quotation marks
-    #quotes = content_element.find_all(string=lambda t: isinstance(t, str) and '"' in t)
-    quotes = re.findall(r'“([^”]*?,”[^”]*?\.|[^”]*?\.”)', content_element.get_text())
-    
-    # Store each quote as a separate record in the data list
-    for quote in quotes:
-        quote = quote.replace('\n', '')
-        data.append((href, decoded_segment, quote.strip()))
+    # Store each metric, result_label, and result_desc element as a separate record in the data list
+    for element in metric_containers:
+        metric = element.find(class_='metric').get_text(strip=True)
+        result_label = element.find(class_='result-label').get_text(strip=True)
+        result_desc = element.find(class_='result-desc').get_text(strip=True)
+        data.append((decoded_segment, metric + ' ' + result_label + ' ' + result_desc, href))
 
 # Store data in a CSV file
-filename = "scraped_data_2.csv"
+filename = "scraped_metrics.csv"
 with open(filename, "w", newline=None, encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerow(["Href", "Case_Study", "Quote"])  # Write header
+    writer.writerow(["Case Study", "Metric", "URL"])  # Write header
     writer.writerows(data)  # Write data rows
 
 print(f"Data has been stored in '{filename}' successfully.")
