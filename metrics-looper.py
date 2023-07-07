@@ -38,6 +38,7 @@ for link in link_elements:
     # Find the desired segment containing "cond%C3%A9-nast"
     last_segment = segments[-1]
 
+    # Find and replace special characters
     decoded_segment = urllib.parse.unquote(last_segment)
     decoded_segment = decoded_segment.replace('-',' ')
     decoded_segment = decoded_segment.title()
@@ -49,7 +50,7 @@ for link in link_elements:
     # Find the element with class "result text-center col""
     metric_containers = link_soup.find_all(class_="result text-center col")
     
-    # Store each quote as a separate record in the data list
+    # Store each metric, result_label, and result_desc element as a separate record in the data list
     for element in metric_containers:
         metric = element.find(class_='metric').get_text(strip=True)
         result_label = element.find(class_='result-label').get_text(strip=True)
