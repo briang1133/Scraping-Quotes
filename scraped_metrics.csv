@@ -1,0 +1,82 @@
+Case Study,Metric,URL
+Condé Nast,30% Increase in self-service for data warehouse engineers,https://www.getdbt.com/success-stories/cond%C3%A9-nast/
+Condé Nast,85 dbt models built on an evergreen platform across various domains,https://www.getdbt.com/success-stories/cond%C3%A9-nast/
+Condé Nast,16 hours saved per data integration sprint project,https://www.getdbt.com/success-stories/cond%C3%A9-nast/
+Aktify,80% Reduction in data engineering hours,https://www.getdbt.com/success-stories/aktify/
+Aktify,95% Reduction in time to onboard new employees,https://www.getdbt.com/success-stories/aktify/
+Aktify,6 Figure annual savings in IT headcount costs,https://www.getdbt.com/success-stories/aktify/
+Andela,3 Months to build a usable prototype of the MyAndela search functionality with dbt and Looker,https://www.getdbt.com/success-stories/andela/
+Andela,5 Months shaved off the product development timeline,https://www.getdbt.com/success-stories/andela/
+Andela,1 New approach to product development,https://www.getdbt.com/success-stories/andela/
+Blend,4 months reduced in time-to-value when compared to internal POC frameworks,https://www.getdbt.com/success-stories/blend/
+Car Classic,10x Report load time improvement with Snowflake,https://www.getdbt.com/success-stories/car-classic/
+Car Classic,8 hours/week Saved identifying data incidents,https://www.getdbt.com/success-stories/car-classic/
+Deputy,+100 data team NPS rated by internal stakeholders,https://www.getdbt.com/success-stories/deputy/
+Deputy,1 week to build new dashboards down from months,https://www.getdbt.com/success-stories/deputy/
+Deputy,20% decrease in computing costs,https://www.getdbt.com/success-stories/deputy/
+Firefly,20x Faster model development From 4 data models created in the 12 months prior to dbt to 15 models in two 2 with dbt,https://www.getdbt.com/success-stories/firefly/
+Firefly,"50+ Business users served with ""how-to"" videos empowering all business users to optimize their data",https://www.getdbt.com/success-stories/firefly/
+Firefly,100% Of models shipped with tests,https://www.getdbt.com/success-stories/firefly/
+Jetblue,99.9% uptime of the data warehouse and pipelines,https://www.getdbt.com/success-stories/jetblue/
+Jetblue,3 month migration of 26 data sources & 1200 models to dbt,https://www.getdbt.com/success-stories/jetblue/
+Jetblue,$0 increase in total cost of ownership,https://www.getdbt.com/success-stories/jetblue/
+Landbay,60% of the organization exploring data in Looker,https://www.getdbt.com/success-stories/landbay/
+Landbay,2 mins Bank of England report creation,https://www.getdbt.com/success-stories/landbay/
+Landbay,£60m loan portfolio moved within hours rather than weeks,https://www.getdbt.com/success-stories/landbay/
+Loft,350+ models developed in dbt Cloud,https://www.getdbt.com/success-stories/loft/
+Loft,80% reduction in model build resource consumption,https://www.getdbt.com/success-stories/loft/
+Loft,2 month time to value from dbt Cloud,https://www.getdbt.com/success-stories/loft/
+Maxmine,12.5 hour reduction in idle time per day for clients through reporting,https://www.getdbt.com/success-stories/maxmine/
+Maxmine,"60,000 liters of fuel saved in six months",https://www.getdbt.com/success-stories/maxmine/
+Maxmine,80% reduction in time-to-insight,https://www.getdbt.com/success-stories/maxmine/
+Mcdonald’S Nordics,"€1.3bn in sales tracked across restaurants, drive-throughs, and delivery",https://www.getdbt.com/success-stories/mcdonald%E2%80%99s-nordics/
+Mcdonald’S Nordics,4 markets with different data stacks centralized,https://www.getdbt.com/success-stories/mcdonald%E2%80%99s-nordics/
+Mcdonald’S Nordics,5x faster delivery times for historical data,https://www.getdbt.com/success-stories/mcdonald%E2%80%99s-nordics/
+Monzo,100000 Lines of code migrated by two data engineers,https://www.getdbt.com/success-stories/monzo/
+Monzo,30+ Analysts collaborating thanks to dbt,https://www.getdbt.com/success-stories/monzo/
+Monzo,"£72,000 Annual savings thanks to dbt’s incremental models",https://www.getdbt.com/success-stories/monzo/
+Nasdaq,100-125 billion transactions operated per day,https://www.getdbt.com/success-stories/nasdaq/
+Nasdaq,55 business users onboarded to modeling and reporting,https://www.getdbt.com/success-stories/nasdaq/
+Oil And Gas,$10M Reallocated back into the business,https://www.getdbt.com/success-stories/oil-and-gas/
+Oil And Gas,3 Weeks of work eliminated from regulatory reporting,https://www.getdbt.com/success-stories/oil-and-gas/
+Oil And Gas,2x Increase in the number of people collaborating on data modeling,https://www.getdbt.com/success-stories/oil-and-gas/
+Pepperstone,"30% Increased speed to delivery through lineage, data democracy, and a new streamlined workflow",https://www.getdbt.com/success-stories/pepperstone/
+Pepperstone,80% Decrease in inconsistent reports t﻿hanks to easier troubleshooting and tested sources and models,https://www.getdbt.com/success-stories/pepperstone/
+Pepperstone,10 Inconsistent data sources raised per month,https://www.getdbt.com/success-stories/pepperstone/
+Ramp,20% reduction in data platform costs,https://www.getdbt.com/success-stories/ramp/
+Ramp,33% increase in data transformation speed,https://www.getdbt.com/success-stories/ramp/
+Ramp,25% of sales pipeline generated by their new personalization engine,https://www.getdbt.com/success-stories/ramp/
+Red Ventures,100 hours saved on a typical data integration,https://www.getdbt.com/success-stories/red-ventures/
+Red Ventures,80% less time spent on data processing jobs,https://www.getdbt.com/success-stories/red-ventures/
+Red Ventures,30% more clients supported without increasing IT headcount,https://www.getdbt.com/success-stories/red-ventures/
+Reforge,350% team growth rate Thanks to their newfound ease of onboarding,https://www.getdbt.com/success-stories/reforge/
+Reforge,18 hours saved per week,https://www.getdbt.com/success-stories/reforge/
+Safetyculture,-20 to +69 Data team eNPS The data team's experience jumped 89 points after implementing dbt.,https://www.getdbt.com/success-stories/safetyculture/
+Safetyculture,2x Increase in new customer retention dbt enabled a research initiative combining data analysis and customer interview insights to plug leaks in 28-day retention.,https://www.getdbt.com/success-stories/safetyculture/
+Safetyculture,80% of data rebuilt using dbt To implement a future state data model.,https://www.getdbt.com/success-stories/safetyculture/
+Spoton,600% Decrease in time to actionable data,https://www.getdbt.com/success-stories/spoton/
+Spoton,8x Increase in engineering contribution,https://www.getdbt.com/success-stories/spoton/
+Spoton,"$110,500 saved in annual engineering costs",https://www.getdbt.com/success-stories/spoton/
+Sunrun,100% participation 10 engineers and 40 analysts now share one common development framework,https://www.getdbt.com/success-stories/sunrun/
+Sunrun,50% reduction in engineering tickets to diagnose and resolve complex data issues,https://www.getdbt.com/success-stories/sunrun/
+Sunrun,75% acceleration in time to deployment,https://www.getdbt.com/success-stories/sunrun/
+Tempo,30-40% efficiency improvement from dbt Cloud and Stemma's workflow,https://www.getdbt.com/success-stories/tempo/
+Tier Mobility,500x more rides in 4 years,https://www.getdbt.com/success-stories/tier-mobility/
+Tier Mobility,"6 to 60 data team members in under 2 years, while increasing analysts' output",https://www.getdbt.com/success-stories/tier-mobility/
+Tier Mobility,1 hour to onboard new data team members to dbt,https://www.getdbt.com/success-stories/tier-mobility/
+Vida Health,6 months to implement and launch a new data stack,https://www.getdbt.com/success-stories/vida-health/
+Vida Health,80% of work to create new data products can be self-served by the analytics team,https://www.getdbt.com/success-stories/vida-health/
+Vida Health,"1 day to trace the root cause of issues, down from two weeks",https://www.getdbt.com/success-stories/vida-health/
+Vivian Health,3x increase in data pipeline contributors,https://www.getdbt.com/success-stories/vivian-health/
+Vivian Health,"1 OKR achieved, around data quality goals",https://www.getdbt.com/success-stories/vivian-health/
+Vivian Health,100% of data models created in dbt,https://www.getdbt.com/success-stories/vivian-health/
+Wellthy,27 hours of manual data work saved,https://www.getdbt.com/success-stories/wellthy/
+Wellthy,2500 test Implemented over 300 dbt models,https://www.getdbt.com/success-stories/wellthy/
+Wellthy,"$80,000 in revenue captured from two alerts",https://www.getdbt.com/success-stories/wellthy/
+Whatnot,4-8x increase in speed from idea to production by enabling data analysts and data engineers to use common dbt models,https://www.getdbt.com/success-stories/whatnot/
+Whatnot,1 week for new analytics engineer hires to start shipping by speeding up onboarding with dbt data catalogs and DAGs,https://www.getdbt.com/success-stories/whatnot/
+Whatnot,10x decrease in maintenance costs b﻿y increasing data quality and accessibility,https://www.getdbt.com/success-stories/whatnot/
+Yummy,5 analysts trained with no previous data engineering experience,https://www.getdbt.com/success-stories/yummy/
+Yummy,5x more models developed with dbt scheduler & staging environments,https://www.getdbt.com/success-stories/yummy/
+Yummy,50% reduction in model build time by enabling more people on the data team to safely develop,https://www.getdbt.com/success-stories/yummy/
+Zip,1000+ models in production after 18 months,https://www.getdbt.com/success-stories/zip/
